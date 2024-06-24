@@ -24,3 +24,4 @@ go.work.sum
 # Jeremy's stuff, yeah boi
 /vendor/
 node_modules/
+app.env
