@@ -28,7 +28,7 @@ require (
 
 require (
 	filippo.io/edwards25519 v1.0.0 // indirect
-	github.com/JeremyJalpha/WhatsAppBot v1.3.6
+	github.com/JeremyJalpha/WhatsAppBot v1.3.7
 	github.com/go-chi/chi/v5 v5.0.14
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/gorilla/websocket v1.5.0 // indirect
