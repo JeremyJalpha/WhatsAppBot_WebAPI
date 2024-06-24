@@ -29,6 +29,17 @@ import (
 	"github.com/mdp/qrterminal"
 )
 
+// Example ENV File
+// ----------------
+// PORT=8080
+// DATABASE_URL=postgresql://postgres:*****@localhost:5432/WhatsAppBot6?sslmode=disable
+// PFHOST=https://sandbox.payfast.co.za/eng/process
+// HOST_NUMBER=27700000000
+// HOMEBASEURL=https://yourtrafficdestination.com
+// MERCHANTID=10000100
+// MERCHANTKEY=*************
+// PASSPHRASE=*************
+
 const (
 	staleMsgTimeOut int = 10
 	pymntRtrnBase       = "payment_return"
